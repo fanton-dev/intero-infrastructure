@@ -7,8 +7,6 @@ on:
     paths:
       - terraform/dev/**
   pull_request:
-    branches:
-      - main
     paths:
       - terraform/dev/**
 
